@@ -1,0 +1,12 @@
+C:\Users\Kenan\source\repos\ProductsApi\ProductFinder.Entities\bin\Debug\net5.0\ProductFinder.Entities.deps.json
+C:\Users\Kenan\source\repos\ProductsApi\ProductFinder.Entities\bin\Debug\net5.0\ProductFinder.Entities.dll
+C:\Users\Kenan\source\repos\ProductsApi\ProductFinder.Entities\bin\Debug\net5.0\ref\ProductFinder.Entities.dll
+C:\Users\Kenan\source\repos\ProductsApi\ProductFinder.Entities\bin\Debug\net5.0\ProductFinder.Entities.pdb
+C:\Users\Kenan\source\repos\ProductsApi\ProductFinder.Entities\obj\Debug\net5.0\ProductFinder.Entities.csprojAssemblyReference.cache
+C:\Users\Kenan\source\repos\ProductsApi\ProductFinder.Entities\obj\Debug\net5.0\ProductFinder.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kenan\source\repos\ProductsApi\ProductFinder.Entities\obj\Debug\net5.0\ProductFinder.Entities.AssemblyInfoInputs.cache
+C:\Users\Kenan\source\repos\ProductsApi\ProductFinder.Entities\obj\Debug\net5.0\ProductFinder.Entities.AssemblyInfo.cs
+C:\Users\Kenan\source\repos\ProductsApi\ProductFinder.Entities\obj\Debug\net5.0\ProductFinder.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Kenan\source\repos\ProductsApi\ProductFinder.Entities\obj\Debug\net5.0\ProductFinder.Entities.dll
+C:\Users\Kenan\source\repos\ProductsApi\ProductFinder.Entities\obj\Debug\net5.0\ref\ProductFinder.Entities.dll
+C:\Users\Kenan\source\repos\ProductsApi\ProductFinder.Entities\obj\Debug\net5.0\ProductFinder.Entities.pdb

@@ -1,0 +1,17 @@
+C:\Users\Kenan\source\repos\ProductsApi\ProductFinder.Business\bin\Debug\net5.0\ProductFinder.Business.deps.json
+C:\Users\Kenan\source\repos\ProductsApi\ProductFinder.Business\bin\Debug\net5.0\ProductFinder.Business.dll
+C:\Users\Kenan\source\repos\ProductsApi\ProductFinder.Business\bin\Debug\net5.0\ref\ProductFinder.Business.dll
+C:\Users\Kenan\source\repos\ProductsApi\ProductFinder.Business\bin\Debug\net5.0\ProductFinder.Business.pdb
+C:\Users\Kenan\source\repos\ProductsApi\ProductFinder.Business\bin\Debug\net5.0\ProductFinder.DataAccess.dll
+C:\Users\Kenan\source\repos\ProductsApi\ProductFinder.Business\bin\Debug\net5.0\ProductFinder.Entities.dll
+C:\Users\Kenan\source\repos\ProductsApi\ProductFinder.Business\bin\Debug\net5.0\ProductFinder.DataAccess.pdb
+C:\Users\Kenan\source\repos\ProductsApi\ProductFinder.Business\bin\Debug\net5.0\ProductFinder.Entities.pdb
+C:\Users\Kenan\source\repos\ProductsApi\ProductFinder.Business\obj\Debug\net5.0\ProductFinder.Business.csprojAssemblyReference.cache
+C:\Users\Kenan\source\repos\ProductsApi\ProductFinder.Business\obj\Debug\net5.0\ProductFinder.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kenan\source\repos\ProductsApi\ProductFinder.Business\obj\Debug\net5.0\ProductFinder.Business.AssemblyInfoInputs.cache
+C:\Users\Kenan\source\repos\ProductsApi\ProductFinder.Business\obj\Debug\net5.0\ProductFinder.Business.AssemblyInfo.cs
+C:\Users\Kenan\source\repos\ProductsApi\ProductFinder.Business\obj\Debug\net5.0\ProductFinder.Business.csproj.CoreCompileInputs.cache
+C:\Users\Kenan\source\repos\ProductsApi\ProductFinder.Business\obj\Debug\net5.0\ProductFinder.Business.csproj.CopyComplete
+C:\Users\Kenan\source\repos\ProductsApi\ProductFinder.Business\obj\Debug\net5.0\ProductFinder.Business.dll
+C:\Users\Kenan\source\repos\ProductsApi\ProductFinder.Business\obj\Debug\net5.0\ref\ProductFinder.Business.dll
+C:\Users\Kenan\source\repos\ProductsApi\ProductFinder.Business\obj\Debug\net5.0\ProductFinder.Business.pdb
